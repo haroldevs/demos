@@ -1,4 +1,4 @@
-### 👋 Hola querido amigo
+### 👋 Hola querido amigo/a
 
 El repositorio del proyecto es privado si deseas obtener acceso a la repo no dudes enviarme un correo  indicandome la razón por la que quieres el código del proyecto y con gusto lo comparto.
 
